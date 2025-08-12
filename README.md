@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pradeep Kanthan  
+# 👋 Hi, I'm Pradeep Kanthan .S  
 **AI Product Developer | Prompt Engineer | Embedded Systems Specialist**  
 🌍 India | 💻 Open to Remote / On-site | ✉️ pradeepkanthan@gmail.com  
 
@@ -18,16 +18,17 @@ Recognized for **prompt engineering expertise**, multi-modal AI integration, and
 - 📷 **Raspberry Pi Camera with UPS & Thermal Management** for uninterrupted industrial surveillance.
 - 📄 **Tamil-OCR + Translation Tools** for document digitization and bilingual workflows.
 - 🎯 **Stereo Vision Systems** for depth measurement and 3D reconstruction.
+- 📊 **AI Trust Scores Analysis** – Research on fairness, explainability, and vulnerabilities of ML & LLM models.
 - 🎓 **Certificate of AI Collaboration** – OpenAI (April 2025).
 
 ---
 
 ## 🛠 Tech Stack
-**AI/ML:** ChatGPT, Transformers, Vosk, DeepTranslator, LangDetect, YOLOv8  
+**AI/ML:** ChatGPT, Transformers, Vosk, DeepTranslator, LangDetect, YOLOv8, SHAP, LIME  
 **Languages:** Python, JavaScript, HTML/CSS  
 **Frameworks:** PyQt5, OpenCV, PyTorch, NumPy, Matplotlib  
-**IoT & Embedded:** Raspberry Pi, Arduino, ESP32 .  
-**Other Tools:** FFmpeg, Git, Docker, SHAP, LIME
+**IoT & Embedded:** Raspberry Pi, Arduino, ESP32, MCP4725 DAC  
+**Other Tools:** FFmpeg, Git, Docker
 
 ---
 
@@ -38,6 +39,7 @@ Recognized for **prompt engineering expertise**, multi-modal AI integration, and
 | [YOLOv8 Multi-Input Detection GUI](https://github.com/techiekanthan/yolov8-multi-input-gui) | Multi-source AI object detection (file, webcam, URL) | Python, OpenCV, YOLOv8 |
 | [Tamil OCR Translator](https://github.com/techiekanthan/tamil-ocr-translator) | OCR for Tamil PDFs/images + translation to English | Python, Tesseract, PyQt5 |
 | [Stereo Vision Depth Mapping](https://github.com/techiekanthan/stereo-vision-depth-mapping) | Camera calibration and depth measurement tools | Python, OpenCV, Open3D |
+| [AI Trust Scores Analysis](https://github.com/techiekanthan/ai-trust-scores) | Fairness & explainability evaluation of ML & LLM systems | Python, SHAP, LIME, sklearn |
 
 ---
 
